@@ -40,6 +40,6 @@ description: Portfolio
 + SampleApp
   + https://github.com/RyoNakamae/SampleApp
 
-# GIS
+### GIS関連
 + funnel_to_agol
   + https://github.com/RyoNakamae/funnel_to_agol
