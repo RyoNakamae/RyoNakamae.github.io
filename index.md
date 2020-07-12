@@ -8,7 +8,7 @@ description: Portfolio
 これまでに作ったものを備忘録として集約しておくためのページ
 
 ## Portfolio
-### C#関連
+### C# 関連
 + DeleteExpiredFiles
   + https://github.com/RyoNakamae/DeleteExpiredFiles
 + ClipboardUtil
@@ -26,7 +26,7 @@ description: Portfolio
 + GetRT
   + https://github.com/RyoNakamae/GetRT
 
-### Python関連
+### Python 関連
 + kaggle_titanic
   + https://github.com/RyoNakamae/
 + quantum
@@ -36,10 +36,14 @@ description: Portfolio
 + LightGBM
   + https://github.com/RyoNakamae/LightGBM
 
-### TypeScript関連
-+ SampleApp
-  + https://github.com/RyoNakamae/SampleApp
+### Arduino系 関連
++ FindCOCOA_by_M5StickC
+  + https://github.com/RyoNakamae/FindCOCOA_by_M5StickC
 
-### GIS関連
-+ funnel_to_agol
+### その他 関連
++ SampleApp(TypeScript関連)
+  + https://github.com/RyoNakamae/SampleApp
++ golang_DayTrade(golang関連)
+  + https://github.com/RyoNakamae/golang_DayTrade
++ funnel_to_agol(GIS関連)
   + https://github.com/RyoNakamae/funnel_to_agol
