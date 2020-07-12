@@ -1,1 +1,0 @@
-# RyoNakamae.github.io
