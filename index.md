@@ -25,6 +25,8 @@ description: Portfolio
   + https://github.com/RyoNakamae/GetTweet
 + GetRT
   + https://github.com/RyoNakamae/GetRT
++ DL_BasicAuthenticationFile
+  + https://github.com/RyoNakamae/DL_BasicAuthenticationFile
 
 ### Python 関連
 + kaggle_titanic
@@ -35,10 +37,18 @@ description: Portfolio
   + https://github.com/RyoNakamae/LpProblem
 + LightGBM
   + https://github.com/RyoNakamae/LightGBM
++ CommonNotice
+  + https://github.com/RyoNakamae/CommonNotice
 
 ### Arduino系 関連
++ WioLTE
+  + https://github.com/RyoNakamae/WioLTE
 + FindCOCOA_by_M5StickC
   + https://github.com/RyoNakamae/FindCOCOA_by_M5StickC
+
+### AWS 関連
++ IncomingWebhook_Lambda
+  + https://github.com/RyoNakamae/IncomingWebhook_Lambda
 
 ### その他 関連
 + SampleApp(TypeScript関連)
